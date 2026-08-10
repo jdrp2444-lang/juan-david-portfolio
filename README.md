@@ -1,16 +1,62 @@
-# React + Vite
+# Juan David Ramírez — Software Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Sobre mí
 
-Currently, two official plugins are available:
+Estudiante de último semestre de Tecnología en Desarrollo Web, enfocado en el desarrollo de aplicaciones web y en la construcción de soluciones utilizando tecnologías de frontend, backend, bases de datos y herramientas de desarrollo modernas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Actualmente estoy fortaleciendo mis conocimientos en desarrollo de software, buenas prácticas, control de versiones, APIs, contenedores y despliegue de aplicaciones.
 
-## React Compiler
+## Tecnologías
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Frontend
 
-## Expanding the Oxlint configuration
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Backend
+
+- Python
+- FastAPI
+- APIs REST
+- SQLAlchemy
+
+### Bases de datos
+
+- MySQL
+- SQL
+
+### DevOps y herramientas
+
+- Git
+- GitHub
+- Docker
+- Docker Compose
+- Linux
+- Nginx
+
+## Proyectos
+
+### BetGamex
+
+Plataforma web orientada a competencias de esports, desarrollada como proyecto para integrar conocimientos de frontend, backend, bases de datos y despliegue.
+
+**Tecnologías:** React, Vite, FastAPI, Python, MySQL, Docker y Nginx.
+
+> Proyecto en proceso de documentación y mejora para portafolio profesional.
+
+## Formación
+
+**Tecnología en Desarrollo Web**  
+Universidad de Manizales  
+Último semestre
+
+## Objetivo profesional
+
+Busco una oportunidad como desarrollador de software junior donde pueda aplicar mis conocimientos, continuar aprendiendo y participar en el desarrollo de soluciones reales utilizando buenas prácticas de ingeniería de software.
+
+---
+
+Este perfil se encuentra en construcción mientras desarrollo y documento nuevos proyectos.
